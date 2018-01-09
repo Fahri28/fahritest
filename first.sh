@@ -1,1 +1,1 @@
-Hello Fahrial, nice to try using Git
+Hello Fahrial, test first git flow 
